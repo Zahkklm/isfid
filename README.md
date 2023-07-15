@@ -1,3 +1,3 @@
 # isfid
-IS ve FID hesaplaması
+IS ve FID hesaplaması <br>
 Kaynak: https://machinelearningmastery.com/
